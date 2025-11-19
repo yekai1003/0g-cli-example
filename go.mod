@@ -1,4 +1,4 @@
-module 0g-cli-example
+module github.com/yekai1003/0g-cli-example
 
 go 1.23.0
 

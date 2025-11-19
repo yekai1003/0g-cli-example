@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/joho/godotenv"
-	"0g-cli-example/cmd"
+	"github.com/yekai1003/0g-cli-example/cmd"
 )
 
 func main() {
